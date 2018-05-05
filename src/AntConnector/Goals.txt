@@ -1,0 +1,42 @@
+What are our objectives?
+
+1) Connect to usb port device
+    things i dont know
+        how do i check for a connected device
+
+2) receive information from connected device
+    things i dont know
+        how do i use a connected device
+
+3) parse received information
+    things i dont know
+        in what form do we receive this information
+
+4) store received information in a continent way
+    options for this
+        psql server - if it can be seperated into atomic data
+        one text document - if it is just a long string of text
+        many text documents - if it is a large block of text
+        google sheets - if we want it in a cloud situation and it is atomic data
+        amazon cloud - if there is a need for a cloud situation
+        other options?
+
+5) have the ability to view stored information in interesting ways
+        this depends on how we store it
+
+questions i have
+
+    what is the name of the device
+        -
+    what information have you gathered on communicating with this device
+        urls
+            -
+        your comments
+            -
+    Do you want a gui?
+        - it would be a little difficult to implement but totally within reality
+        - i dont know what we will be doing about graphing it and i dont know how to graph on a java gui
+            (stack overflow is a magical thing tho)
+
+    are the objectives i have listed the ones you want? if not list the modified ones below this
+        -
