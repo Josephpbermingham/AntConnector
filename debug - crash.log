@@ -1,0 +1,442 @@
+[20160129 08:07:36.384] [MainThread] [-] 
+
+[20160129 08:07:36.386] [MainThread] [-] Starting application miCoach Manager v5.4.11 (C:/Program Files (x86)/adidas/miCoach Manager/SyncManager.exe)
+[20160129 08:07:36.387] [MainThread] [-] Operating system: Windows 7 (type: x64, version: 6.1, build number: 7601, service pack: 1.0, CPU: Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz)
+[20160129 08:07:36.387] [MainThread] [D] WebDataStorage single instance created
+[20160129 08:07:36.810] [MainThread] [D] Using alternative web storage 'https://micoach.adidas.com/services/SyncAPIWs.asmx'
+[20160129 08:07:36.828] [MainThread] [D] UmsDeviceDetector: found device \\?\scsi#cdrom&ven_matshita&prod_dvd+-rw_uj8e2#4&395ba125&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:07:36.836] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{197793e3-bc65-11e3-919c-c4d987643628}#0000000000007e00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:07:36.846] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{39ea90c0-9fce-11e3-b00c-806e6f6e6963}#0000000002800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:07:36.855] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{39ea90c0-9fce-11e3-b00c-806e6f6e6963}#00000002f3200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:07:36.858] [SyncThread] [D] Run scheduler thread
+[20160129 08:07:36.858] [MainThread] [D] Start AuthTokenGetter. Actual time for authToken: 900 secs
+[20160129 08:07:36.858] [MainThread] [D] Starting time jumping checker
+[20160129 08:07:36.858] [MainThread] [-] Selecting language
+[20160129 08:07:36.859] [MainThread] [-] GuiLanguageModel: selected language: 0 (en_US)
+[20160129 08:07:36.924] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.928] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.933] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.936] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.939] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.948] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.954] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.958] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.963] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.966] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.970] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.973] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.977] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.980] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:36.984] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:07:37.037] [MainThread] [-] UpdateModel: Starting checking for update
+[20160129 08:07:37.038] [ApplUpdate] [D] UpdateModel: Checking for software update
+[20160129 08:07:37.038] [ApplUpdate] [D] WebDataStorage single instance created
+[20160129 08:07:37.038] [ApplUpdate] [D] Using alternative web storage 'https://micoach.adidas.com/services/SyncAPIWs.asmx'
+[20160129 08:07:37.861] [Detect#001] [-] Device \\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} attached.
+[20160129 08:07:37.861] [Detect#001] [D] HID API delay: 10 ms.
+[20160129 08:07:37.861] [Detect#001] [-] Waiting for pending device installation...
+[20160129 08:07:37.861] [Detect#001] [-] Waiting for pending device installation finished with code 0
+[20160129 08:07:38.862] [Detect#001] [D] HID API: Attempting to open device...
+[20160129 08:07:38.862] [Detect#001] [D] HID API: Device opened successfully.
+[20160129 08:07:38.862] [Detect#001] [D] HID API: Attempting to get preparsed data...
+[20160129 08:07:38.862] [Detect#001] [D] HID API: Preparsed data got successfully.
+[20160129 08:07:38.863] [Detect#001] [D] HID API: Attempting to get caps...
+[20160129 08:07:38.863] [Detect#001] [D] HID API: Caps got successfully.
+[20160129 08:07:38.863] [Detect#001] [D] Send feature report command 71.
+[20160129 08:07:38.863] [Detect#001] [D] Report is: 00470C0600000000A7 
+[20160129 08:07:38.864] [Detect#001] [D] Get feature report response.
+[20160129 08:07:38.865] [Detect#001] [D] Report is: 004131333935453033 
+[20160129 08:07:38.865] [Detect#001] [D] HidPacerStorage: HEX version of the S/N = 0x41 0x31 0x33 0x39 0x35 0x45 0x30 0x33
+[20160129 08:07:38.865] [Detect#001] [-] HidPacerStorage: The serial number in persistant data is 'A1395E03'
+[20160129 08:07:38.866] [Detect#001] [D] Send feature report command 71.
+[20160129 08:07:38.866] [Detect#001] [D] Report is: 004742060000000071 
+[20160129 08:07:38.866] [Detect#001] [D] Get feature report response.
+[20160129 08:07:38.867] [Detect#001] [D] Report is: 0087691B0000B70300 
+[20160129 08:07:38.867] [Detect#001] [D] Starting directory block = 0x1F87
+[20160129 08:07:38.867] [Detect#001] [D] Send feature report command 82.
+[20160129 08:07:38.867] [Detect#001] [D] Report is: 0052871F01001000F7 
+[20160129 08:07:38.894] [Detect#001] [D] Creating new directory...
+[20160129 08:07:38.894] [Detect#001] [D] Directory layout (signature = 0x4444):
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x00: index = 0x01, starting block = 0x0b30, length = 0x00000034, checksum = 0x90
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x01: index = 0x02, starting block = 0x0b31, length = 0x00000000, checksum = 0xc2
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x02: index = 0x03, starting block = 0x0b20, length = 0x0000022a, checksum = 0xa6
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x03: index = 0x04, starting block = 0x0b21, length = 0x00000162, checksum = 0x6d
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x04: index = 0x05, starting block = 0x0b22, length = 0x0000005e, checksum = 0x70
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x05: index = 0x06, starting block = 0x0b23, length = 0x00000000, checksum = 0xcc
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x06: index = 0x07, starting block = 0x0b24, length = 0x00000000, checksum = 0xca
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x07: index = 0x08, starting block = 0x0b25, length = 0x00000000, checksum = 0xc8
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x08: index = 0x09, starting block = 0x0b26, length = 0x00000000, checksum = 0xc6
+[20160129 08:07:38.894] [Detect#001] [D] File entry #0x09: index = 0x0a, starting block = 0x0b27, length = 0x00000000, checksum = 0xc4
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x0a: index = 0x0b, starting block = 0x0b28, length = 0x00000000, checksum = 0xc2
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x0b: index = 0x0c, starting block = 0x0b29, length = 0x00000000, checksum = 0xc0
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x0c: index = 0x0d, starting block = 0x0b2a, length = 0x00000000, checksum = 0xbe
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x0d: index = 0x0e, starting block = 0x0b2b, length = 0x00000000, checksum = 0xbc
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x0e: index = 0x0f, starting block = 0x0b2c, length = 0x00000000, checksum = 0xba
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x0f: index = 0x10, starting block = 0x0b2d, length = 0x00000000, checksum = 0xb8
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x10: index = 0x11, starting block = 0x0b2e, length = 0x00000000, checksum = 0xb6
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x11: index = 0x12, starting block = 0x0b2f, length = 0x00000000, checksum = 0xb4
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x12: index = 0x20, starting block = 0x0b32, length = 0x00000015, checksum = 0x8e
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x13: index = 0x21, starting block = 0x0000, length = 0x00000000, checksum = 0xdf
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x14: index = 0x22, starting block = 0x0000, length = 0x00000000, checksum = 0xde
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x15: index = 0x23, starting block = 0x0000, length = 0x00000000, checksum = 0xdd
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x16: index = 0x24, starting block = 0x0000, length = 0x00000000, checksum = 0xdc
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x17: index = 0x25, starting block = 0x0000, length = 0x00000000, checksum = 0xdb
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x18: index = 0x26, starting block = 0x0000, length = 0x00000000, checksum = 0xda
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x19: index = 0x27, starting block = 0x0000, length = 0x00000000, checksum = 0xd9
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x1a: index = 0x28, starting block = 0x0000, length = 0x00000000, checksum = 0xd8
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x1b: index = 0x29, starting block = 0x0000, length = 0x00000000, checksum = 0xd7
+[20160129 08:07:38.895] [Detect#001] [D] File entry #0x1c: index = 0x2a, starting block = 0x0000, length = 0x00000000, checksum = 0xd6
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x1d: index = 0x2b, starting block = 0x0000, length = 0x00000000, checksum = 0xd5
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x1e: index = 0x2c, starting block = 0x0000, length = 0x00000000, checksum = 0xd4
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x1f: index = 0x2d, starting block = 0x0000, length = 0x00000000, checksum = 0xd3
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x20: index = 0x2e, starting block = 0x0000, length = 0x00000000, checksum = 0xd2
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x21: index = 0x2f, starting block = 0x0000, length = 0x00000000, checksum = 0xd1
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x22: index = 0x30, starting block = 0x0000, length = 0x00000000, checksum = 0xd0
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x23: index = 0x31, starting block = 0x0000, length = 0x00000000, checksum = 0xcf
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x24: index = 0x32, starting block = 0x0000, length = 0x00000000, checksum = 0xce
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x25: index = 0x33, starting block = 0x0000, length = 0x00000000, checksum = 0xcd
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x26: index = 0x34, starting block = 0x0000, length = 0x00000000, checksum = 0xcc
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x27: index = 0x35, starting block = 0x0000, length = 0x00000000, checksum = 0xcb
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x28: index = 0x36, starting block = 0x0000, length = 0x00000000, checksum = 0xca
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x29: index = 0x37, starting block = 0x0000, length = 0x00000000, checksum = 0xc9
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x2a: index = 0x38, starting block = 0x0000, length = 0x00000000, checksum = 0xc8
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x2b: index = 0x39, starting block = 0x0000, length = 0x00000000, checksum = 0xc7
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x2c: index = 0x3a, starting block = 0x0000, length = 0x00000000, checksum = 0xc6
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x2d: index = 0x3b, starting block = 0x0000, length = 0x00000000, checksum = 0xc5
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x2e: index = 0x3c, starting block = 0x0000, length = 0x00000000, checksum = 0xc4
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x2f: index = 0x3d, starting block = 0x0000, length = 0x00000000, checksum = 0xc3
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x30: index = 0x3e, starting block = 0x0000, length = 0x00000000, checksum = 0xc2
+[20160129 08:07:38.896] [Detect#001] [D] File entry #0x31: index = 0x3f, starting block = 0x0000, length = 0x00000000, checksum = 0xc1
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x32: index = 0x40, starting block = 0x0000, length = 0x00000000, checksum = 0xc0
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x33: index = 0x41, starting block = 0x0000, length = 0x00000000, checksum = 0xbf
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x34: index = 0x42, starting block = 0x0000, length = 0x00000000, checksum = 0xbe
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x35: index = 0x43, starting block = 0x0000, length = 0x00000000, checksum = 0xbd
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x36: index = 0x44, starting block = 0x0000, length = 0x00000000, checksum = 0xbc
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x37: index = 0x45, starting block = 0x0000, length = 0x00000000, checksum = 0xbb
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x38: index = 0x46, starting block = 0x0000, length = 0x00000000, checksum = 0xba
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x39: index = 0x47, starting block = 0x0000, length = 0x00000000, checksum = 0xb9
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x3a: index = 0x48, starting block = 0x0000, length = 0x00000000, checksum = 0xb8
+[20160129 08:07:38.897] [Detect#001] [D] File entry #0x3b: index = 0x49, starting block = 0x0000, length = 0x00000000, checksum = 0xb7
+[20160129 08:07:38.897] [Detect#001] [D] Send feature report command 71.
+[20160129 08:07:38.897] [Detect#001] [D] Report is: 0047040600000000AF 
+[20160129 08:07:38.899] [Detect#001] [D] Get feature report response.
+[20160129 08:07:38.900] [Detect#001] [D] Report is: 000200080030303030 
+[20160129 08:07:38.900] [Detect#001] [D] Firmware index = 0x00
+[20160129 08:07:38.900] [Detect#001] [D] Firmware upgrade location = 0A20
+[20160129 08:07:38.900] [Detect#001] [D] Send feature report command 71.
+[20160129 08:07:38.900] [Detect#001] [D] Report is: 004731060000000082 
+[20160129 08:07:38.901] [Detect#001] [D] Get feature report response.
+[20160129 08:07:38.902] [Detect#001] [D] Report is: 00000249616E484944 
+[20160129 08:07:38.902] [Detect#001] [D] Voice upgrade index = 0x01
+[20160129 08:07:38.902] [Detect#001] [D] voice upgrade location = 0400
+[20160129 08:07:38.902] [Detect#001] [D] State changed for device '\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}' to 1
+[20160129 08:07:38.902] [Detect#001] [D] Reading file. Starting block 2866. File index 32.
+[20160129 08:07:38.902] [Detect#001] [D] Send feature report command 82.
+[20160129 08:07:38.902] [Detect#001] [D] Report is: 0052320B0100100060 
+[20160129 08:07:38.929] [Detect#001] [D] Successfully read bytes: 1024.
+[20160129 08:07:38.929] [Detect#001] [D] Send feature report command 71.
+[20160129 08:07:38.929] [Detect#001] [D] Report is: 00470C0600000000A7 
+[20160129 08:07:38.930] [Detect#001] [D] Get feature report response.
+[20160129 08:07:38.931] [Detect#001] [D] Report is: 004131333935453033 
+[20160129 08:07:38.931] [Detect#001] [D] HidPacerStorage: HEX version of the S/N = 0x41 0x31 0x33 0x39 0x35 0x45 0x30 0x33
+[20160129 08:07:38.931] [Detect#001] [D] Device \\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} was not found in the devices list. Will be created a new one.
+[20160129 08:07:38.932] [Detect#001] [D] SafeFitnessDevice capture device: name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}, old captured name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}, new captured name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[20160129 08:07:38.981] [MainThread] [D] Schedule workflow for '\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+[20160129 08:07:38.983] [SyncThread] [-] >>>> SYNC PCR A1395E03: ==== START ====
+[20160129 08:07:38.983] [SyncThread] [-] >>>> SYNC PCR A1395E03: Step #1 - Connecting to the external storage
+[20160129 08:07:38.999] [AuthGetter] [E] AuthTokenGetter: Error: Failed to login to web-storage. Status: -1. Message: '' (in WebDataStorage.cpp:line 252)
+[20160129 08:08:01.731] [MainThread] [-] 
+
+[20160129 08:08:01.731] [MainThread] [-] Starting application miCoach Manager v5.4.11 (C:/Program Files (x86)/adidas/miCoach Manager/SyncManager.exe)
+[20160129 08:08:01.731] [MainThread] [-] Operating system: Windows 7 (type: x64, version: 6.1, build number: 7601, service pack: 1.0, CPU: Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz)
+[20160129 08:08:01.732] [MainThread] [D] WebDataStorage single instance created
+[20160129 08:08:02.156] [MainThread] [D] Using alternative web storage 'https://micoach.adidas.com/services/SyncAPIWs.asmx'
+[20160129 08:08:02.172] [MainThread] [D] UmsDeviceDetector: found device \\?\scsi#cdrom&ven_matshita&prod_dvd+-rw_uj8e2#4&395ba125&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:02.182] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{197793e3-bc65-11e3-919c-c4d987643628}#0000000000007e00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:02.191] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{39ea90c0-9fce-11e3-b00c-806e6f6e6963}#0000000002800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:02.199] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{39ea90c0-9fce-11e3-b00c-806e6f6e6963}#00000002f3200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:02.202] [SyncThread] [D] Run scheduler thread
+[20160129 08:08:02.202] [MainThread] [D] Start AuthTokenGetter. Actual time for authToken: 900 secs
+[20160129 08:08:02.202] [MainThread] [D] Starting time jumping checker
+[20160129 08:08:02.202] [MainThread] [-] Selecting language
+[20160129 08:08:02.202] [MainThread] [-] GuiLanguageModel: selected language: 0 (en_US)
+[20160129 08:08:02.269] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.272] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.276] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.279] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.284] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.293] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.298] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.302] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.306] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.310] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.314] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.317] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.321] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.324] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.328] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:02.380] [MainThread] [-] UpdateModel: Starting checking for update
+[20160129 08:08:02.380] [ApplUpdate] [D] UpdateModel: Checking for software update
+[20160129 08:08:02.380] [ApplUpdate] [D] WebDataStorage single instance created
+[20160129 08:08:02.380] [ApplUpdate] [D] Using alternative web storage 'https://micoach.adidas.com/services/SyncAPIWs.asmx'
+[20160129 08:08:03.205] [Detect#001] [-] Device \\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} attached.
+[20160129 08:08:03.205] [Detect#001] [D] HID API delay: 10 ms.
+[20160129 08:08:03.205] [Detect#001] [-] Waiting for pending device installation...
+[20160129 08:08:03.205] [Detect#001] [-] Waiting for pending device installation finished with code 0
+[20160129 08:08:04.206] [Detect#001] [D] HID API: Attempting to open device...
+[20160129 08:08:04.206] [Detect#001] [D] HID API: Device opened successfully.
+[20160129 08:08:04.207] [Detect#001] [D] HID API: Attempting to get preparsed data...
+[20160129 08:08:04.207] [Detect#001] [D] HID API: Preparsed data got successfully.
+[20160129 08:08:04.207] [Detect#001] [D] HID API: Attempting to get caps...
+[20160129 08:08:04.207] [Detect#001] [D] HID API: Caps got successfully.
+[20160129 08:08:04.207] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:04.207] [Detect#001] [D] Report is: 00470C0600000000A7 
+[20160129 08:08:04.208] [Detect#001] [D] Get feature report response.
+[20160129 08:08:04.209] [Detect#001] [D] Report is: 004131333935453033 
+[20160129 08:08:04.209] [Detect#001] [D] HidPacerStorage: HEX version of the S/N = 0x41 0x31 0x33 0x39 0x35 0x45 0x30 0x33
+[20160129 08:08:04.209] [Detect#001] [-] HidPacerStorage: The serial number in persistant data is 'A1395E03'
+[20160129 08:08:04.209] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:04.210] [Detect#001] [D] Report is: 004742060000000071 
+[20160129 08:08:04.210] [Detect#001] [D] Get feature report response.
+[20160129 08:08:04.211] [Detect#001] [D] Report is: 0087691B0000B70300 
+[20160129 08:08:04.211] [Detect#001] [D] Starting directory block = 0x1F87
+[20160129 08:08:04.211] [Detect#001] [D] Send feature report command 82.
+[20160129 08:08:04.211] [Detect#001] [D] Report is: 0052871F01001000F7 
+[20160129 08:08:04.238] [Detect#001] [D] Creating new directory...
+[20160129 08:08:04.238] [Detect#001] [D] Directory layout (signature = 0x4444):
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x00: index = 0x01, starting block = 0x0b30, length = 0x00000034, checksum = 0x90
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x01: index = 0x02, starting block = 0x0b31, length = 0x00000000, checksum = 0xc2
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x02: index = 0x03, starting block = 0x0b20, length = 0x0000022a, checksum = 0xa6
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x03: index = 0x04, starting block = 0x0b21, length = 0x00000162, checksum = 0x6d
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x04: index = 0x05, starting block = 0x0b22, length = 0x0000005e, checksum = 0x70
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x05: index = 0x06, starting block = 0x0b23, length = 0x00000000, checksum = 0xcc
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x06: index = 0x07, starting block = 0x0b24, length = 0x00000000, checksum = 0xca
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x07: index = 0x08, starting block = 0x0b25, length = 0x00000000, checksum = 0xc8
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x08: index = 0x09, starting block = 0x0b26, length = 0x00000000, checksum = 0xc6
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x09: index = 0x0a, starting block = 0x0b27, length = 0x00000000, checksum = 0xc4
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x0a: index = 0x0b, starting block = 0x0b28, length = 0x00000000, checksum = 0xc2
+[20160129 08:08:04.238] [Detect#001] [D] File entry #0x0b: index = 0x0c, starting block = 0x0b29, length = 0x00000000, checksum = 0xc0
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x0c: index = 0x0d, starting block = 0x0b2a, length = 0x00000000, checksum = 0xbe
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x0d: index = 0x0e, starting block = 0x0b2b, length = 0x00000000, checksum = 0xbc
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x0e: index = 0x0f, starting block = 0x0b2c, length = 0x00000000, checksum = 0xba
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x0f: index = 0x10, starting block = 0x0b2d, length = 0x00000000, checksum = 0xb8
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x10: index = 0x11, starting block = 0x0b2e, length = 0x00000000, checksum = 0xb6
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x11: index = 0x12, starting block = 0x0b2f, length = 0x00000000, checksum = 0xb4
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x12: index = 0x20, starting block = 0x0b32, length = 0x00000015, checksum = 0x8e
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x13: index = 0x21, starting block = 0x0000, length = 0x00000000, checksum = 0xdf
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x14: index = 0x22, starting block = 0x0000, length = 0x00000000, checksum = 0xde
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x15: index = 0x23, starting block = 0x0000, length = 0x00000000, checksum = 0xdd
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x16: index = 0x24, starting block = 0x0000, length = 0x00000000, checksum = 0xdc
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x17: index = 0x25, starting block = 0x0000, length = 0x00000000, checksum = 0xdb
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x18: index = 0x26, starting block = 0x0000, length = 0x00000000, checksum = 0xda
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x19: index = 0x27, starting block = 0x0000, length = 0x00000000, checksum = 0xd9
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x1a: index = 0x28, starting block = 0x0000, length = 0x00000000, checksum = 0xd8
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x1b: index = 0x29, starting block = 0x0000, length = 0x00000000, checksum = 0xd7
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x1c: index = 0x2a, starting block = 0x0000, length = 0x00000000, checksum = 0xd6
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x1d: index = 0x2b, starting block = 0x0000, length = 0x00000000, checksum = 0xd5
+[20160129 08:08:04.239] [Detect#001] [D] File entry #0x1e: index = 0x2c, starting block = 0x0000, length = 0x00000000, checksum = 0xd4
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x1f: index = 0x2d, starting block = 0x0000, length = 0x00000000, checksum = 0xd3
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x20: index = 0x2e, starting block = 0x0000, length = 0x00000000, checksum = 0xd2
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x21: index = 0x2f, starting block = 0x0000, length = 0x00000000, checksum = 0xd1
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x22: index = 0x30, starting block = 0x0000, length = 0x00000000, checksum = 0xd0
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x23: index = 0x31, starting block = 0x0000, length = 0x00000000, checksum = 0xcf
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x24: index = 0x32, starting block = 0x0000, length = 0x00000000, checksum = 0xce
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x25: index = 0x33, starting block = 0x0000, length = 0x00000000, checksum = 0xcd
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x26: index = 0x34, starting block = 0x0000, length = 0x00000000, checksum = 0xcc
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x27: index = 0x35, starting block = 0x0000, length = 0x00000000, checksum = 0xcb
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x28: index = 0x36, starting block = 0x0000, length = 0x00000000, checksum = 0xca
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x29: index = 0x37, starting block = 0x0000, length = 0x00000000, checksum = 0xc9
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x2a: index = 0x38, starting block = 0x0000, length = 0x00000000, checksum = 0xc8
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x2b: index = 0x39, starting block = 0x0000, length = 0x00000000, checksum = 0xc7
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x2c: index = 0x3a, starting block = 0x0000, length = 0x00000000, checksum = 0xc6
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x2d: index = 0x3b, starting block = 0x0000, length = 0x00000000, checksum = 0xc5
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x2e: index = 0x3c, starting block = 0x0000, length = 0x00000000, checksum = 0xc4
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x2f: index = 0x3d, starting block = 0x0000, length = 0x00000000, checksum = 0xc3
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x30: index = 0x3e, starting block = 0x0000, length = 0x00000000, checksum = 0xc2
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x31: index = 0x3f, starting block = 0x0000, length = 0x00000000, checksum = 0xc1
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x32: index = 0x40, starting block = 0x0000, length = 0x00000000, checksum = 0xc0
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x33: index = 0x41, starting block = 0x0000, length = 0x00000000, checksum = 0xbf
+[20160129 08:08:04.240] [Detect#001] [D] File entry #0x34: index = 0x42, starting block = 0x0000, length = 0x00000000, checksum = 0xbe
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x35: index = 0x43, starting block = 0x0000, length = 0x00000000, checksum = 0xbd
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x36: index = 0x44, starting block = 0x0000, length = 0x00000000, checksum = 0xbc
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x37: index = 0x45, starting block = 0x0000, length = 0x00000000, checksum = 0xbb
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x38: index = 0x46, starting block = 0x0000, length = 0x00000000, checksum = 0xba
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x39: index = 0x47, starting block = 0x0000, length = 0x00000000, checksum = 0xb9
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x3a: index = 0x48, starting block = 0x0000, length = 0x00000000, checksum = 0xb8
+[20160129 08:08:04.241] [Detect#001] [D] File entry #0x3b: index = 0x49, starting block = 0x0000, length = 0x00000000, checksum = 0xb7
+[20160129 08:08:04.241] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:04.241] [Detect#001] [D] Report is: 0047040600000000AF 
+[20160129 08:08:04.242] [Detect#001] [D] Get feature report response.
+[20160129 08:08:04.243] [Detect#001] [D] Report is: 000200080030303030 
+[20160129 08:08:04.243] [Detect#001] [D] Firmware index = 0x00
+[20160129 08:08:04.243] [Detect#001] [D] Firmware upgrade location = 0A20
+[20160129 08:08:04.244] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:04.244] [Detect#001] [D] Report is: 004731060000000082 
+[20160129 08:08:04.244] [Detect#001] [D] Get feature report response.
+[20160129 08:08:04.245] [Detect#001] [D] Report is: 00000249616E484944 
+[20160129 08:08:04.246] [Detect#001] [D] Voice upgrade index = 0x01
+[20160129 08:08:04.246] [Detect#001] [D] voice upgrade location = 0400
+[20160129 08:08:04.246] [Detect#001] [D] State changed for device '\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}' to 1
+[20160129 08:08:04.246] [Detect#001] [D] Reading file. Starting block 2866. File index 32.
+[20160129 08:08:04.246] [Detect#001] [D] Send feature report command 82.
+[20160129 08:08:04.246] [Detect#001] [D] Report is: 0052320B0100100060 
+[20160129 08:08:04.273] [Detect#001] [D] Successfully read bytes: 1024.
+[20160129 08:08:04.273] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:04.273] [Detect#001] [D] Report is: 00470C0600000000A7 
+[20160129 08:08:04.274] [Detect#001] [D] Get feature report response.
+[20160129 08:08:04.275] [Detect#001] [D] Report is: 004131333935453033 
+[20160129 08:08:04.275] [Detect#001] [D] HidPacerStorage: HEX version of the S/N = 0x41 0x31 0x33 0x39 0x35 0x45 0x30 0x33
+[20160129 08:08:04.275] [Detect#001] [D] Device \\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} was not found in the devices list. Will be created a new one.
+[20160129 08:08:04.275] [Detect#001] [D] SafeFitnessDevice capture device: name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}, old captured name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}, new captured name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[20160129 08:08:04.308] [MainThread] [D] Schedule workflow for '\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+[20160129 08:08:04.312] [SyncThread] [-] >>>> SYNC PCR A1395E03: ==== START ====
+[20160129 08:08:04.312] [SyncThread] [-] >>>> SYNC PCR A1395E03: Step #1 - Connecting to the external storage
+[20160129 08:08:04.314] [AuthGetter] [E] AuthTokenGetter: Error: Failed to login to web-storage. Status: -1. Message: '' (in WebDataStorage.cpp:line 252)
+[20160129 08:08:36.129] [MainThread] [-] 
+
+[20160129 08:08:36.130] [MainThread] [-] Starting application miCoach Manager v5.4.11 (C:/Program Files (x86)/adidas/miCoach Manager/SyncManager.exe)
+[20160129 08:08:36.130] [MainThread] [-] Operating system: Windows 7 (type: x64, version: 6.1, build number: 7601, service pack: 1.0, CPU: Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz)
+[20160129 08:08:36.130] [MainThread] [D] WebDataStorage single instance created
+[20160129 08:08:36.554] [MainThread] [D] Using alternative web storage 'https://micoach.adidas.com/services/SyncAPIWs.asmx'
+[20160129 08:08:36.570] [MainThread] [D] UmsDeviceDetector: found device \\?\scsi#cdrom&ven_matshita&prod_dvd+-rw_uj8e2#4&395ba125&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:36.580] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{197793e3-bc65-11e3-919c-c4d987643628}#0000000000007e00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:36.589] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{39ea90c0-9fce-11e3-b00c-806e6f6e6963}#0000000002800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:36.598] [MainThread] [D] UmsDeviceDetector: found device \\?\storage#volume#{39ea90c0-9fce-11e3-b00c-806e6f6e6963}#00000002f3200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[20160129 08:08:36.601] [SyncThread] [D] Run scheduler thread
+[20160129 08:08:36.601] [MainThread] [D] Start AuthTokenGetter. Actual time for authToken: 900 secs
+[20160129 08:08:36.601] [MainThread] [D] Starting time jumping checker
+[20160129 08:08:36.601] [MainThread] [-] Selecting language
+[20160129 08:08:36.601] [MainThread] [-] GuiLanguageModel: selected language: 0 (en_US)
+[20160129 08:08:36.666] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.670] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.674] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.677] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.681] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.689] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.695] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.698] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.702] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.705] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.709] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.712] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.716] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.719] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.723] [MainThread] [D] extendFrameIntoClientArea failed. Error: 0x80263001
+[20160129 08:08:36.776] [MainThread] [-] UpdateModel: Starting checking for update
+[20160129 08:08:36.777] [ApplUpdate] [D] UpdateModel: Checking for software update
+[20160129 08:08:36.777] [ApplUpdate] [D] WebDataStorage single instance created
+[20160129 08:08:36.777] [ApplUpdate] [D] Using alternative web storage 'https://micoach.adidas.com/services/SyncAPIWs.asmx'
+[20160129 08:08:48.825] [Detect#001] [-] Device \\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} attached.
+[20160129 08:08:48.825] [Detect#001] [D] HID API delay: 10 ms.
+[20160129 08:08:48.825] [Detect#001] [-] Waiting for pending device installation...
+[20160129 08:08:48.825] [Detect#001] [-] Waiting for pending device installation finished with code 0
+[20160129 08:08:48.825] [0000002f30] [-] DeviceDetector: device '\\?\HID#VID_1ED6&PID_AD34&MI_01#7&39f61256&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}' skipped
+[20160129 08:08:49.827] [Detect#001] [D] HID API: Attempting to open device...
+[20160129 08:08:49.827] [Detect#001] [D] HID API: Device opened successfully.
+[20160129 08:08:49.827] [Detect#001] [D] HID API: Attempting to get preparsed data...
+[20160129 08:08:49.827] [Detect#001] [D] HID API: Preparsed data got successfully.
+[20160129 08:08:49.827] [Detect#001] [D] HID API: Attempting to get caps...
+[20160129 08:08:49.827] [Detect#001] [D] HID API: Caps got successfully.
+[20160129 08:08:49.827] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:49.827] [Detect#001] [D] Report is: 00470C0600000000A7 
+[20160129 08:08:49.829] [Detect#001] [D] Get feature report response.
+[20160129 08:08:49.830] [Detect#001] [D] Report is: 004131333935453033 
+[20160129 08:08:49.830] [Detect#001] [D] HidPacerStorage: HEX version of the S/N = 0x41 0x31 0x33 0x39 0x35 0x45 0x30 0x33
+[20160129 08:08:49.830] [Detect#001] [-] HidPacerStorage: The serial number in persistant data is 'A1395E03'
+[20160129 08:08:49.830] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:49.830] [Detect#001] [D] Report is: 004742060000000071 
+[20160129 08:08:49.831] [Detect#001] [D] Get feature report response.
+[20160129 08:08:49.832] [Detect#001] [D] Report is: 0088761B0000BA0300 
+[20160129 08:08:49.832] [Detect#001] [D] Starting directory block = 0x1F88
+[20160129 08:08:49.832] [Detect#001] [D] Send feature report command 82.
+[20160129 08:08:49.832] [Detect#001] [D] Report is: 0052881F01001000F6 
+[20160129 08:08:49.859] [Detect#001] [D] Creating new directory...
+[20160129 08:08:49.859] [Detect#001] [D] Directory layout (signature = 0x4444):
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x00: index = 0x01, starting block = 0x0b30, length = 0x00000034, checksum = 0x90
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x01: index = 0x02, starting block = 0x0b31, length = 0x00000000, checksum = 0xc2
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x02: index = 0x03, starting block = 0x0b20, length = 0x0000022a, checksum = 0xa6
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x03: index = 0x04, starting block = 0x0b21, length = 0x00000162, checksum = 0x6d
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x04: index = 0x05, starting block = 0x0b22, length = 0x0000005e, checksum = 0x70
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x05: index = 0x06, starting block = 0x0b23, length = 0x00000000, checksum = 0xcc
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x06: index = 0x07, starting block = 0x0b24, length = 0x00000000, checksum = 0xca
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x07: index = 0x08, starting block = 0x0b25, length = 0x00000000, checksum = 0xc8
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x08: index = 0x09, starting block = 0x0b26, length = 0x00000000, checksum = 0xc6
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x09: index = 0x0a, starting block = 0x0b27, length = 0x00000000, checksum = 0xc4
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x0a: index = 0x0b, starting block = 0x0b28, length = 0x00000000, checksum = 0xc2
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x0b: index = 0x0c, starting block = 0x0b29, length = 0x00000000, checksum = 0xc0
+[20160129 08:08:49.859] [Detect#001] [D] File entry #0x0c: index = 0x0d, starting block = 0x0b2a, length = 0x00000000, checksum = 0xbe
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x0d: index = 0x0e, starting block = 0x0b2b, length = 0x00000000, checksum = 0xbc
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x0e: index = 0x0f, starting block = 0x0b2c, length = 0x00000000, checksum = 0xba
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x0f: index = 0x10, starting block = 0x0b2d, length = 0x00000000, checksum = 0xb8
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x10: index = 0x11, starting block = 0x0b2e, length = 0x00000000, checksum = 0xb6
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x11: index = 0x12, starting block = 0x0b2f, length = 0x00000000, checksum = 0xb4
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x12: index = 0x20, starting block = 0x0b32, length = 0x00000015, checksum = 0x8e
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x13: index = 0x21, starting block = 0x0000, length = 0x00000000, checksum = 0xdf
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x14: index = 0x22, starting block = 0x0000, length = 0x00000000, checksum = 0xde
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x15: index = 0x23, starting block = 0x0000, length = 0x00000000, checksum = 0xdd
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x16: index = 0x24, starting block = 0x0000, length = 0x00000000, checksum = 0xdc
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x17: index = 0x25, starting block = 0x0000, length = 0x00000000, checksum = 0xdb
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x18: index = 0x26, starting block = 0x0000, length = 0x00000000, checksum = 0xda
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x19: index = 0x27, starting block = 0x0000, length = 0x00000000, checksum = 0xd9
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x1a: index = 0x28, starting block = 0x0000, length = 0x00000000, checksum = 0xd8
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x1b: index = 0x29, starting block = 0x0000, length = 0x00000000, checksum = 0xd7
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x1c: index = 0x2a, starting block = 0x0000, length = 0x00000000, checksum = 0xd6
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x1d: index = 0x2b, starting block = 0x0000, length = 0x00000000, checksum = 0xd5
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x1e: index = 0x2c, starting block = 0x0000, length = 0x00000000, checksum = 0xd4
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x1f: index = 0x2d, starting block = 0x0000, length = 0x00000000, checksum = 0xd3
+[20160129 08:08:49.860] [Detect#001] [D] File entry #0x20: index = 0x2e, starting block = 0x0000, length = 0x00000000, checksum = 0xd2
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x21: index = 0x2f, starting block = 0x0000, length = 0x00000000, checksum = 0xd1
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x22: index = 0x30, starting block = 0x0000, length = 0x00000000, checksum = 0xd0
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x23: index = 0x31, starting block = 0x0000, length = 0x00000000, checksum = 0xcf
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x24: index = 0x32, starting block = 0x0000, length = 0x00000000, checksum = 0xce
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x25: index = 0x33, starting block = 0x0000, length = 0x00000000, checksum = 0xcd
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x26: index = 0x34, starting block = 0x0000, length = 0x00000000, checksum = 0xcc
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x27: index = 0x35, starting block = 0x0000, length = 0x00000000, checksum = 0xcb
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x28: index = 0x36, starting block = 0x0000, length = 0x00000000, checksum = 0xca
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x29: index = 0x37, starting block = 0x0000, length = 0x00000000, checksum = 0xc9
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x2a: index = 0x38, starting block = 0x0000, length = 0x00000000, checksum = 0xc8
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x2b: index = 0x39, starting block = 0x0000, length = 0x00000000, checksum = 0xc7
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x2c: index = 0x3a, starting block = 0x0000, length = 0x00000000, checksum = 0xc6
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x2d: index = 0x3b, starting block = 0x0000, length = 0x00000000, checksum = 0xc5
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x2e: index = 0x3c, starting block = 0x0000, length = 0x00000000, checksum = 0xc4
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x2f: index = 0x3d, starting block = 0x0000, length = 0x00000000, checksum = 0xc3
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x30: index = 0x3e, starting block = 0x0000, length = 0x00000000, checksum = 0xc2
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x31: index = 0x3f, starting block = 0x0000, length = 0x00000000, checksum = 0xc1
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x32: index = 0x40, starting block = 0x0000, length = 0x00000000, checksum = 0xc0
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x33: index = 0x41, starting block = 0x0000, length = 0x00000000, checksum = 0xbf
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x34: index = 0x42, starting block = 0x0000, length = 0x00000000, checksum = 0xbe
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x35: index = 0x43, starting block = 0x0000, length = 0x00000000, checksum = 0xbd
+[20160129 08:08:49.861] [Detect#001] [D] File entry #0x36: index = 0x44, starting block = 0x0000, length = 0x00000000, checksum = 0xbc
+[20160129 08:08:49.862] [Detect#001] [D] File entry #0x37: index = 0x45, starting block = 0x0000, length = 0x00000000, checksum = 0xbb
+[20160129 08:08:49.862] [Detect#001] [D] File entry #0x38: index = 0x46, starting block = 0x0000, length = 0x00000000, checksum = 0xba
+[20160129 08:08:49.862] [Detect#001] [D] File entry #0x39: index = 0x47, starting block = 0x0000, length = 0x00000000, checksum = 0xb9
+[20160129 08:08:49.862] [Detect#001] [D] File entry #0x3a: index = 0x48, starting block = 0x0000, length = 0x00000000, checksum = 0xb8
+[20160129 08:08:49.862] [Detect#001] [D] File entry #0x3b: index = 0x49, starting block = 0x0000, length = 0x00000000, checksum = 0xb7
+[20160129 08:08:49.862] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:49.862] [Detect#001] [D] Report is: 0047040600000000AF 
+[20160129 08:08:49.863] [Detect#001] [D] Get feature report response.
+[20160129 08:08:49.864] [Detect#001] [D] Report is: 000200080030303030 
+[20160129 08:08:49.864] [Detect#001] [D] Firmware index = 0x00
+[20160129 08:08:49.864] [Detect#001] [D] Firmware upgrade location = 0A20
+[20160129 08:08:49.865] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:49.865] [Detect#001] [D] Report is: 004731060000000082 
+[20160129 08:08:49.865] [Detect#001] [D] Get feature report response.
+[20160129 08:08:49.866] [Detect#001] [D] Report is: 00000249616E484944 
+[20160129 08:08:49.866] [Detect#001] [D] Voice upgrade index = 0x01
+[20160129 08:08:49.866] [Detect#001] [D] voice upgrade location = 0400
+[20160129 08:08:49.867] [Detect#001] [D] State changed for device '\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}' to 1
+[20160129 08:08:49.867] [Detect#001] [D] Reading file. Starting block 2866. File index 32.
+[20160129 08:08:49.867] [Detect#001] [D] Send feature report command 82.
+[20160129 08:08:49.867] [Detect#001] [D] Report is: 0052320B0100100060 
+[20160129 08:08:49.893] [Detect#001] [D] Successfully read bytes: 1024.
+[20160129 08:08:49.893] [Detect#001] [D] Send feature report command 71.
+[20160129 08:08:49.893] [Detect#001] [D] Report is: 00470C0600000000A7 
+[20160129 08:08:49.894] [Detect#001] [D] Get feature report response.
+[20160129 08:08:49.895] [Detect#001] [D] Report is: 004131333935453033 
+[20160129 08:08:49.895] [Detect#001] [D] HidPacerStorage: HEX version of the S/N = 0x41 0x31 0x33 0x39 0x35 0x45 0x30 0x33
+[20160129 08:08:49.896] [Detect#001] [D] Device \\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} was not found in the devices list. Will be created a new one.
+[20160129 08:08:49.896] [Detect#001] [D] SafeFitnessDevice capture device: name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}, old captured name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}, new captured name=\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[20160129 08:08:49.935] [MainThread] [D] Schedule workflow for '\\?\hid#vid_1ed6&pid_ad34&mi_00#7&118b648d&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+[20160129 08:08:49.936] [SyncThread] [-] >>>> SYNC PCR A1395E03: ==== START ====
+[20160129 08:08:49.936] [SyncThread] [-] >>>> SYNC PCR A1395E03: Step #1 - Connecting to the external storage
+[20160129 08:08:49.942] [AuthGetter] [E] AuthTokenGetter: Error: Failed to login to web-storage. Status: -1. Message: '' (in WebDataStorage.cpp:line 252)
