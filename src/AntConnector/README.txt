@@ -1,11 +1,11 @@
 so there are a couple of things that need to happen here.
 -1) ask me if you have any questions about this stuff
-0) you need git so you can do github
-1) you need a github account so we can share this stuff(let me know your account name so i can add you to the repository)
-2)get an ide
+0) you need git so you can do github - DONE
+1) you need a github account so we can share this stuff(let me know your account name so i can add you to the repository) - DONE
+2)get an ide - DONE (Intellij and Visual Studio 2017)
        intellij is a really nice ide (where you write code) i recommend it, but if you want to find a different one that is fine it doesn't really matter
-3) figure out what we need to do put it in goals.txt/read goals.txt
-4) also if you have those dump files of data from whenever ago you should commit it to the github
+3) figure out what we need to do put it in goals.txt/read goals.txt - In Work
+4) also if you have those dump files of data from whenever ago you should commit it to the github - DONE
 *******************************************************************
 
 HELPFUL INFORMATION
